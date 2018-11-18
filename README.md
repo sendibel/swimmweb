@@ -1,2 +1,2 @@
 # swimmweb
-about swimm world records
+about swimming world records
