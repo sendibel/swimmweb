@@ -1,0 +1,28 @@
+/*body {
+	/*background-image: url('http://www.apartmanistanjevictivat.com/BJELILA/WEB/SLIKE/Bjelila-iz-vayduha.jpg');
+    background-repeat: initial;*/
+/*	background-image: url('https://i.pinimg.com/originals/f1/d8/20/f1d8201f3739eff2e2cd7ee5e7aec3c1.jpg');
+*/	/*height: 600px;
+	width: 1200px;*/
+/*}
+.navbar {
+	width: 1100px;
+	text-align: center;
+	list-style: none;
+}*/
+footer {
+	/*background-image: url('http://www.apartmanistanjevictivat.com/BJELILA/WEB/SLIKE/Bjelila-iz-vayduha.jpg');*/
+	/*padding-top: 550px;*/
+	background-color: grey;
+
+}
+.row_1 {
+	background-color: #3783D9;
+	border-radius: 1px;
+	color: white;
+	text-align: justify-all;
+	
+}
+li {
+	list-style: none;
+}
